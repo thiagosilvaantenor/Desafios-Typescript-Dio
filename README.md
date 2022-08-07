@@ -1,10 +1,47 @@
-# Desafios-Typescript-Dio
+<h1 align="center">Desafios-Typescript-Dio</h1>
+
 ![image](https://user-images.githubusercontent.com/99970279/183271221-7babbe37-8e90-4c5b-a9f2-1de237f94eea.png)
 
-Desafios de Typecripst propostos pela plataforma DIO
-##
-Os desafios envolvem pegar codigos de Javascript, que não estavam funcionando em typescript, e modifica-los para funcionarem no typescript;
-O link do repositorio com os desafios: https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios
-##
-Desafios 1 e 2 tem como resultado apenas um codigo em javascript;
-Desafios 3 e 4 utilizam de uma pagina em HTML
+<p align="center">
+ <a href="#descrição-do-projeto">📝 Descrição do Projeto </a> •
+ <a href="#tecnologias">💻 Tecnologias</a> • 
+ <a href="#avisos">⚠️ Avisos</a> • 
+ <a href="#autor">🧑🏾‍💻 Autor</a> • 
+</p>
+
+## Descrição do projeto
+
+<p align="center">Desafios de Typecripst propostos pela plataforma DIO;
+<br> Os desafios envolvem pegar codigos de Javascript, que não estavam funcionando em typescript, e modifica-los para funcionarem no typescript.
+<br><br> O link do repositorio com os desafios: https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios</p>
+
+<h4 align="center"> 
+	🚧  Typescript 🚀 <br>
+  Desafio 1 ✅<br>
+  Desafio 2 ✅<br>
+  Desafio 3 ✅<br>
+  Desafio 4 Em construção...  🚧
+</h4>
+
+## Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+- [Node.js](https://nodejs.org/en/) 
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## Avisos
+<p align="center"> Arquivos Typescript estão na pasta src, ja arquivos Javascript estão na pasta assets/js;<br> Desafio 4 ainda está sendo finalizado!</p>
+
+## Autor
+<div align="center">
+<a href="https://www.linkedin.com/in/thiago-antenor/">
+ <img style="border-radius: 100%;" src="https://media-exp1.licdn.com/dms/image/D4D35AQGU7QkIH8rOnQ/profile-framedphoto-shrink_200_200/0/1648653971985?e=1660446000&v=beta&t=od48Huc8o9CxsVZ5upw1bVTtwGbGtlGWoL0x_tUo3Sg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Silva Antenor</b></sub></a> <a href="https://www.linkedin.com/in/thiago-antenor/" title="Linkedin"> 🧑🏾‍💻</a>
+
+
+Feito por Thiago Silva Antenor 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-antenor/)](https://www.linkedin.com/in/thiago-antenor/) 
+[![Gmail Badge](https://img.shields.io/badge/-thiagoantenor31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoantenor31.com)](mailto:thiagoantenor31.com)
+</div>
