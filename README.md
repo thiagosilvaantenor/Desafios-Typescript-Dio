@@ -1,4 +1,6 @@
 # Desafios-Typescript-Dio
+![image](https://user-images.githubusercontent.com/99970279/183271221-7babbe37-8e90-4c5b-a9f2-1de237f94eea.png)
+
 Desafios de Typecripst propostos pela plataforma DIO
 ##
 Os desafios envolvem pegar codigos de Javascript, que não estavam funcionando em typescript, e modifica-los para funcionarem no typescript;
