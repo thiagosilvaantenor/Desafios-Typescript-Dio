@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autor
 <div align="center">
 <a href="https://www.linkedin.com/in/thiago-antenor/">
- <img style="border-radius: 100%;" src="https://media-exp1.licdn.com/dms/image/D4D35AQGU7QkIH8rOnQ/profile-framedphoto-shrink_200_200/0/1648653971985?e=1660446000&v=beta&t=od48Huc8o9CxsVZ5upw1bVTtwGbGtlGWoL0x_tUo3Sg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99970279?v=4" width="100px;" alt="foto do autor"/>
  <br />
  <sub><b>Thiago Silva Antenor</b></sub></a> <a href="https://www.linkedin.com/in/thiago-antenor/" title="Linkedin"> 🧑🏾‍💻</a>
 
